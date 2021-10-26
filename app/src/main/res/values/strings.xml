@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeadsUp!(SQLite)-SaveOnly</string>
+    <string name="EditAndDelete">To Delete:\nJust Click Delete and Conform\n\nTo Update:\nyou Need to Enter Any or All Information you Need to Update </string>
+    <string name="addNewC">To Add New Celebrity:\nyou Need to Enter All Information\n</string>
+</resources>
